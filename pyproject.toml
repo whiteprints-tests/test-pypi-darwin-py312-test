@@ -62,6 +62,7 @@ urls.download = "https://github.com/whiteprints-tests/test-pypi-darwin-py312-tes
 urls.homepage = "https://github.com/whiteprints-tests/test-pypi-darwin-py312-test"
 urls.integration = "https://github.com/whiteprints-tests/test-pypi-darwin-py312-test/actions"
 urls.issues = "https://github.com/whiteprints-tests/test-pypi-darwin-py312-test/issues"
+urls.pypi = "https://pypi.org/project/test-pypi-darwin-py312-test"
 urls.repository = "https://github.com/whiteprints-tests/test-pypi-darwin-py312-test"
 scripts.test-pypi-darwin-py312-test = "test_pypi_darwin_py312_test.cli.entrypoint:test_pypi_darwin_py312_test"
 
